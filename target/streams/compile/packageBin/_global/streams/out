@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging D:\sensor-task\target\scala-2.13\sensor-task_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\sensor-task\target\scala-2.13\classes\data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data\leaderOne.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\sensor-task\target\scala-2.13\classes\data\leaderOne.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data\sensor_data.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\sensor-task\target\scala-2.13\classes\data\sensor_data.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HumiditySensorStatistics$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\sensor-task\target\scala-2.13\classes\HumiditySensorStatistics$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HumiditySensorStatistics$HumidityData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\sensor-task\target\scala-2.13\classes\HumiditySensorStatistics$HumidityData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HumiditySensorStatistics$HumidityData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\sensor-task\target\scala-2.13\classes\HumiditySensorStatistics$HumidityData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HumiditySensorStatistics$SensorStats$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\sensor-task\target\scala-2.13\classes\HumiditySensorStatistics$SensorStats$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HumiditySensorStatistics$SensorStats.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\sensor-task\target\scala-2.13\classes\HumiditySensorStatistics$SensorStats.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HumiditySensorStatistics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\sensor-task\target\scala-2.13\classes\HumiditySensorStatistics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
